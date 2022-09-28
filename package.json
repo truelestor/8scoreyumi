@@ -1,0 +1,18 @@
+{
+  "name": "8scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "best-scores.com ◄ Get Your FREE Credit Score best-scores.com, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "best-scores.com",
+    "credit score apps free",
+    "what credit score needed for mortgage",
+    "credit score agencies",
+    "with what credit score do you start"
+  ],
+  "repository": "https://github.com/truelestor/8scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
